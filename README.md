@@ -2,7 +2,7 @@
 
 <img src="pic/screen3.png" width="32%"> <img src="pic/screen1.png" width="32%"> <img src="pic/screen2.png" width="32%">
 
-# Omarchy-qs
+# Omarchy-Quickshell
 
 **Workspace overview for [Omarchy](https://github.com/basecamp/omarchy) — powered by Quickshell.**
 
